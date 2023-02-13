@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614607718561",
+    "project_id": "taxi-client-b72c0",
+    "storage_bucket": "taxi-client-b72c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614607718561:android:e1aa267ea3803cdc71c8e0",
+        "android_client_info": {
+          "package_name": "com.branchminer.flubbercustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614607718561-g2fmb8gmagn34isse12uv9tgfo1300jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEakkw6zQUyrnp2awKXyPBlPFTx6hi_5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614607718561-g2fmb8gmagn34isse12uv9tgfo1300jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
