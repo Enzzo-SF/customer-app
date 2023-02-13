@@ -43,6 +43,6 @@
             android:value="2" />
         <!-- replace with your google maps key -->
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDiwDti2mX7jNLH2hQQb9HXVDBC4eze0rY"/>
+            android:value=""/>
     </application>
 </manifest>
